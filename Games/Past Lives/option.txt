@@ -1,0 +1,20 @@
+			if(opt.equals("a"))
+			{
+				ans=ans+;
+			}
+			else if(opt.equals("b"))
+			{
+				ans=ans+;
+			}
+			else if(opt.equals("c"))
+			{
+				ans=ans+;
+			}
+			else if(opt.equals("d"))
+			{
+				ans=ans+;
+			}
+			else
+			{
+				ans=ans+;
+			}
